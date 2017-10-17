@@ -1,0 +1,5 @@
+#govendor
+vendor/
+
+#vim
+*.swp
