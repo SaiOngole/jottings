@@ -10,7 +10,7 @@ func main() {
 	app.Name = "jottings"
 	app.Usage = "note taking in terminal"
 	app.Action = func(c *cli.Context) error {
-		CreateFile()
+		CreateFile("")
 		return nil
 	}
 	app.Run(os.Args)

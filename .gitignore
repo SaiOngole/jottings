@@ -4,4 +4,4 @@ vendor/
 #vim
 *.swp
 
-*.txt
+*.md
